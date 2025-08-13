@@ -17,5 +17,9 @@ Select 2 to use plottext, and the plot will be printed in the terminal (perfect 
 Select 1 for using matplotlib and get a .png  and a _hires.png files.
 
 ### Example:
+Opt:
+<img width="2972" height="3570" alt="orca_TS_optimization" src="https://github.com/user-attachments/assets/9217c024-53a7-4ca9-8843-d62a09ca4a1e" />
+
+
 SCAN:
 <img width="2972" height="3570" alt="SCAN" src="https://github.com/user-attachments/assets/f0e3921b-e330-4826-af4b-132d44dae8fd" />
