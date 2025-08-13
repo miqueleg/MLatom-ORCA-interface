@@ -9,7 +9,7 @@ To do so, I recomend using the MLatom-Sella interface: https://github.com/miquel
 - Install ORCA and MLatom and all the needed dependencies
 - Download `ORCA-interface.py`
 - Open the file and change the USER CONFIGURATION parameters to fit your calculation
-- Execute `python Orca-interface.py`
+- Execute `python Orca-interface.py input.xyz`
 
 ### Plots
 Use `python ORCA_plot.py /path/to/temp/folder` to make plots to follow the progress of the calculation. (Requires matplotlib and plotext)
