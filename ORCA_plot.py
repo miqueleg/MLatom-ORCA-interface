@@ -164,7 +164,7 @@ def plot_matplotlib(data):
     # Energy plot (top, double height)
     ax1.plot(cycles, energies, 'b-o', linewidth=2, markersize=4, label='Energy')
     ax1.set_ylabel('Energy (Ha)', fontsize=12, fontweight='bold')
-    ax1.set_title('ORCA TS Optimization Progress', fontsize=14, fontweight='bold')
+    ax1.set_title('ORCA Optimization Progress', fontsize=14, fontweight='bold')
     ax1.grid(True, alpha=0.3)
     ax1.legend(fontsize=10)
     
